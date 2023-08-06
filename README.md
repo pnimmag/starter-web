@@ -5,6 +5,10 @@ This is a website and I am learning GIT.
 ## Purpose
 
 Sample website with plenty of files for demos
+This sample website is easy to understand
 
 ## Deployment
 How to deploy this website
+
+## Final Steps
+These are the final steps to be followed after Deployment
