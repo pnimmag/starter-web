@@ -1,3 +1,0 @@
-hello! This is a test file.
-I am learning GIT.
-Jason Taylor course on GIT is very interesting.
